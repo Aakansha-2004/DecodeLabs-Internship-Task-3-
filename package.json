@@ -1,0 +1,21 @@
+{
+  "name": "user-management-system",
+  "version": "1.0.0",
+  "description": "Full Stack Project 3 - Database Integration | DecodeLabs Batch 2026",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.0",
+    "dotenv": "^16.3.1",
+    "express-validator": "^7.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "author": "DecodeLabs Batch 2026",
+  "license": "ISC"
+}
